@@ -1,0 +1,10 @@
+title       = "cs229"
+baseURL     = "https://cs229-cli.tamnd.com/"
+description = "Browse Stanford CS229 Machine Learning course content"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/cs229-cli"
